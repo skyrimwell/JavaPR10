@@ -1,4 +1,4 @@
-package com.example.politicians;
+package com.example.printers;
 
 public interface Printer {
     String doPrint();
